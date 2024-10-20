@@ -25,7 +25,7 @@
 
 - Here are Data Visualization which I developed on [Tableau](https://public.tableau.com/app/profile/amar.singh1017/vizzes) 
 
-## Projects
+## 💻 Projects
 Business Case 1: Yulu-Hypothesis-Testing
 
 Link : https://github.com/Sutapa94/Yulu-Hypothesis-Testing
