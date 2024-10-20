@@ -10,7 +10,7 @@
   
 - 👯 I’m looking to collaborate on Datasets for Analysis and Visualization projects.
   
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/lokeshhope) 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lokeshhope/) 
 
 - Here is my resume: [Resume](https://drive.google.com/file/d/1ftIrmpxvydvU85MCPd-ABUWeYNRyuE2P/view?usp=sharing)
 
