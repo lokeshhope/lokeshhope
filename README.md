@@ -1,27 +1,27 @@
-💫 About Me:
+🌍 About Me:
 
-- 👋 Hi, I’m Amar Singh (He/Him)
+- ✌🏾 Hi, I’m Lokesh.N
   
-- 👩‍💻 Data Analyst - Trust and Safety @Google
+- 👩‍💻 Data Analyst
 
 - 👀 I’m interested in Data Analytics.
   
 - 🎯 Passionate about converting data into insights and building frameworks for decision-making.
   
-- 👯 I’m looking to collaborate on Datasets for Analysis and Visualization projects.
+- 📑 I’m looking to collaborate on Datasets for Analysis and Visualization projects.
   
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lokeshhope/) 
+- 📬 How to reach me: [Linkedin](https://www.linkedin.com/in/lokeshhope/) 
 
-- Here is my resume: [Resume](https://drive.google.com/file/d/1ftIrmpxvydvU85MCPd-ABUWeYNRyuE2P/view?usp=sharing)
+- 📄 Here is my resume: [Resume]()
 
-- Here is my portfolio: [Portfolio](https://www.datascienceportfol.io/iamarsingh)
+- 📚 Here is my portfolio: [Portfolio](https://www.datascienceportfol.io/iamarsingh)
    
 - ⚡ Fun fact: Everything is fun when you enjoy doing it. 
 
 ## 🛠 Skills
-- Spreadsheet - Google Sheets, MS Excel
 - SQL - My SQL
-- Bi tool - Google Data Studio, Tableau 
+- Google Suite-Google Sheets, MS Excel
+- Tableau, Google Data Studio 
 
 - Here are Data Visualization which I developed on [Tableau](https://public.tableau.com/app/profile/amar.singh1017/vizzes) 
 <!---
