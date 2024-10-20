@@ -16,7 +16,7 @@
 
 - 📚 Here is my portfolio: [Portfolio](https://www.datascienceportfol.io/iamarsingh)
    
-- ⚡ Fun fact: Everything is fun when you enjoy doing it. 
+- ⚡ Fun fact: Help others, build a team and move forward together. 
 
 ## 🛠 Skills
 - SQL - My SQL
