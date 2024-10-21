@@ -28,7 +28,7 @@
 ## 💻 Projects
 Business Case 1: Yulu-Hypothesis-Testing
 
-Link : https://github.com/Sutapa94/Yulu-Hypothesis-Testing
+Link : https://github.com/lokeshhope/SQL-Restaurant-Order-Analysis.git
 
 Business Case 2: Delhivery-Feature-Engineering
 
