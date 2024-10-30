@@ -1,7 +1,7 @@
 🌍 About Me:
 
 - Hi, I’m Lokesh.N ❤️
-- 
+  
 - 👩‍💻 Data Analyst
   
 - 👀 I’m interested in Data Analytics.
