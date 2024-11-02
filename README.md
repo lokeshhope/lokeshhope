@@ -16,7 +16,7 @@
   
 - 📚 Here is my portfolio: [Portfolio]
   
-- ⚡ Fun fact: Helping Others ∝ Growth Together. 
+- ⚡ Core Belief: Helping Others ∝ Growth Together. 
 
 ## 🛠 Skills
 - SQL - My SQL
