@@ -14,7 +14,7 @@
   
 - 📄 Here is my resume: [Resume](https://drive.google.com/file/d/1BTc86PZI3UvVO4xnNzoufMZ5sUudbNV1/view?usp=sharing)
   
-- 📚 Here is my portfolio: [Portfolio](https://www.datascienceportfol.io/iamarsingh)
+- 📚 Here is my portfolio: [Portfolio]
   
 - ⚡ Fun fact: Helping Others ∝ Growth Together. 
 
