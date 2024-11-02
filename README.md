@@ -16,7 +16,7 @@
   
 - 📚 Here is my portfolio: [Portfolio](https://www.datascienceportfol.io/iamarsingh)
   
-- ⚡ Fun fact: Helping others ∝ Growth Together. 
+- ⚡ Fun fact: Helping Others ∝ Growth Together. 
 
 ## 🛠 Skills
 - SQL - My SQL
