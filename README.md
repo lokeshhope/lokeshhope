@@ -23,7 +23,7 @@
 - Google Suite-Google Sheets, MS Excel
 - Tableau, Google Data Studio 
 
-- Here are Data Visualization which I developed on [Tableau](https://public.tableau.com/app/profile/amar.singh1017/vizzes) 
+- Here are Data Visualization which I developed on [Tableau](https://public.tableau.com/app/profile/lokesh.n6439/vizzes) 
 
 ## 💻 Projects
 Business Case 1: Restaurant-Order-Analysis using MySQL
