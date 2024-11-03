@@ -14,7 +14,7 @@
   
 - 📄 Here is my resume: [Resume](https://drive.google.com/file/d/1BTc86PZI3UvVO4xnNzoufMZ5sUudbNV1/view?usp=sharing)
   
-- 📚 Here is my portfolio: [Portfolio]
+- 📚 Here is my portfolio: [Portfolio](https://www.datascienceportfol.io/lokeshhope10)
   
 - ⚡ Core Belief: Helping Others ∝ Growth Together. 
 
